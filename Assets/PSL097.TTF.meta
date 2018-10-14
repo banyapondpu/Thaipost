@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6bd77296ae7e70f46b8af1bbca47498e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PSL Kittithada
+  fontNames:
+  - PSL Kittithada
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08dcdb34e4496684a9510c4d19a59281, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
